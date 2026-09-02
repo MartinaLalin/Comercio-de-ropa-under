@@ -101,6 +101,27 @@ nav {
     text-align: center;
 }
 
+.btn-loginusr {
+    margin-top: 25px;
+    padding: 10px 30px;
+    background: linear-gradient(135deg, #474747 0%, #2a2a2a 100%);
+    color: white;  
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    width: 145px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(71, 71, 71, 0.3);
+
+}
+
+.href {
+    text-decoration: none;
+    color: white;
+    
+}
+
 .btn-carrito-header {
     margin-top: 25px;
     padding: 12px 30px;

@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
     </tr>
   `);
 
-  // Funcionamiento de botones eliminar o editar en admin
+ 
   function manageFormFields(fields, values = null, btnId = '', btnTexts = []) {
     fields.forEach(([id, key]) => {
       const el = document.getElementById(id);
